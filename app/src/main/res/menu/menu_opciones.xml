@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+    <item
+        android:id="@+id/mAbout"
+        android:orderInCategory="0102"
+        android:title="@string/menu_title_mAbout"/>
+    <item
+        android:id="@+id/mSettings"
+        android:orderInCategory="0101"
+        android:title="@string/menu_title_mSettings"/>
+    <item
+    android:id="@+id/mQuit"
+    android:orderInCategory="0103"
+    android:title="@string/menu_title_mQuit"/>
+    <item
+        android:id="@+id/mRefresh"
+        android:title="Refresh"
+        android:orderInCategory="0100"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_refresh"    />
+</menu>

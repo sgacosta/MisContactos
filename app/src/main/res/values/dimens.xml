@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_linear">20dp</dimen>
+    <dimen name="name_text_size">30sp</dimen>
+    <dimen name="text_size_telefono_email">18sp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="corner_redius_cardview">4dp</dimen>
+    <dimen name="nombre_cardview">20sp</dimen>
+    <dimen name="elevacion_actinbar">4dp</dimen>
+</resources>
